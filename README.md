@@ -1,4 +1,3 @@
-```
 # UDD Proyecto 4
 
 Este proyecto es una aplicación web para UDD Proyecto 4. Proporciona una plataforma para gestionar reservas de mesas en restaurantes.
