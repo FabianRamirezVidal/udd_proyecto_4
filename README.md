@@ -8,7 +8,7 @@ El proyecto UDD Proyecto 4 es una aplicación web que permite a los usuarios rea
 
 ## Demo
 
-Aquí puedes encontrar una demo en línea del proyecto: [Enlace a la demo](https://github.com/FabianRamirezVidal/udd_proyecto_4)
+Aquí puedes encontrar una demo en línea del proyecto: [Enlace a la demo](https://udd-proyecto-4.onrender.com/)
 
 ## Capturas de Pantalla
 
@@ -64,15 +64,6 @@ Se aceptan contribuciones al proyecto. Si deseas contribuir, sigue estos pasos:
 3. Realiza los cambios y mejoras necesarios.
 4. Envía una pull request describiendo tus cambios.
 
-## Autores
-
-- Nombre del Autor 1
-- Nombre del Autor 2
-- Nombre del Autor 3
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-```
-
-Este contenido está en formato Markdown y puedes pegarlo en un archivo README.md en tu proyecto.
