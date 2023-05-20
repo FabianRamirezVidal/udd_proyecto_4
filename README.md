@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+```
+# UDD Proyecto 4
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una aplicación web para UDD Proyecto 4. Proporciona una plataforma para gestionar reservas de mesas en restaurantes.
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
+El proyecto UDD Proyecto 4 es una aplicación web que permite a los usuarios realizar reservas en restaurantes. Los usuarios pueden ingresar su nombre, seleccionar la fecha y hora deseada, y especificar el número de personas para su reserva. La aplicación se conecta a una base de datos en Firebase para almacenar y administrar las reservas.
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Aquí puedes encontrar una demo en línea del proyecto: [Enlace a la demo](https://github.com/FabianRamirezVidal/udd_proyecto_4)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Capturas de Pantalla
 
-### `npm test`
+Inserta aquí capturas de pantalla del proyecto para mostrar su apariencia y funcionalidades.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologías Utilizadas
 
-### `npm run build`
+- React.js
+- Firebase (Firestore)
+- HTML
+- CSS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Instalación
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clona el repositorio:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/FabianRamirezVidal/udd_proyecto_4.git
+```
 
-### `npm run eject`
+2. Accede al directorio del proyecto:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+cd udd_proyecto_4
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Instala las dependencias:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Configura la conexión a Firebase. Asegúrate de tener una cuenta de Firebase y crea un proyecto nuevo. Luego, agrega la configuración de Firebase en el archivo `src/constants/firebase.js`.
 
-## Learn More
+5. Inicia la aplicación:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+La aplicación estará disponible en [http://localhost:3000](http://localhost:3000).
 
-### Code Splitting
+## Uso
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Una vez que la aplicación esté en ejecución, puedes acceder a ella desde un navegador web. Ingresa tu nombre, selecciona la fecha y hora deseada, y especifica el número de personas para tu reserva. Luego, haz clic en el botón "Reservar" para guardar la reserva.
 
-### Analyzing the Bundle Size
+## Contribución
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Se aceptan contribuciones al proyecto. Si deseas contribuir, sigue estos pasos:
 
-### Making a Progressive Web App
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tu contribución.
+3. Realiza los cambios y mejoras necesarios.
+4. Envía una pull request describiendo tus cambios.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Autores
 
-### Advanced Configuration
+- Nombre del Autor 1
+- Nombre del Autor 2
+- Nombre del Autor 3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Licencia
 
-### Deployment
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este contenido está en formato Markdown y puedes pegarlo en un archivo README.md en tu proyecto.
