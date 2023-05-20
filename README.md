@@ -10,10 +10,6 @@ El proyecto UDD Proyecto 4 es una aplicación web que permite a los usuarios rea
 
 Aquí puedes encontrar una demo en línea del proyecto: [Enlace a la demo](https://udd-proyecto-4.onrender.com/)
 
-## Capturas de Pantalla
-
-Inserta aquí capturas de pantalla del proyecto para mostrar su apariencia y funcionalidades.
-
 ## Tecnologías Utilizadas
 
 - React.js
